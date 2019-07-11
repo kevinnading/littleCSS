@@ -45,7 +45,7 @@ The above list is non-exhaustive. littleCSS works perfectly with almost all olde
 
 ## License
 
-All parts of littleCSS are free to use and abuse under the [open-source MIT license](https://github.com/kevinnading/littleCSS/blob/master/LICENSE.md).
+All parts of littleCSS are free to use and abuse under the [open-source MIT license](https://github.com/kevinnading/littleCSS/blob/master/LICENSE).
 
 
 ## Acknowledgement
