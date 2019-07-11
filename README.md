@@ -7,6 +7,7 @@ Check out <https://www.littlecss.com> for documentation and details.
 
 For now the best method to get littleCSS is:
 - Clone the repo: `git clone https://github.com/kevinnading/littleCSS.git`
+- Download the zip: <https://github.com/kevinnading/littleCSS/archive/v2.0.4.zip>
 
 
 ### What's in it, you ask?
