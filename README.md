@@ -1,5 +1,5 @@
 # [littleCSS](https://www.littlecss.com)
-littleCSS is a simple, responsive boilerplate to kickstart any responsive project.
+littleCSS is a simple, responsive boilerplate to kickstart any mobile and desktop friendly web project.
 
 Check out <https://www.littlecss.com> for documentation and details.
 
